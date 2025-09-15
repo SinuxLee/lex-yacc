@@ -14,7 +14,7 @@
 ```
 
 ### 源文件
-  *.l → Lex/Flex 词法文件
+  *.l → Lex/Flex 词法文件  
   *.y → Yacc/Bison 语法文件
 
 ### 转译
